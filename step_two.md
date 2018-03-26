@@ -22,7 +22,7 @@
 
 6.Next step is to hook the cloud object storage instance that you had created in the last step. Click on `Select` button for `Cloud Object Storage bucket for storing training source and results files`  and you will be redirected to a page asking you to connect your cloud object storage account with the experiment.
 
-7.Click onthe tab that says `New connection` and select the cloud object storage instance that you had created earlier.8.
+7.Click on the tab that says `New connection` and select the cloud object storage instance that you had created earlier.8.
 
 ![cos_create_connection](images/step_two/cos_create_connection.png)
 
@@ -42,7 +42,7 @@
 
 ![cos_upload_data_1](images/step_two/cos_upload_data_1.png)
 
-13. You will need to upload the training data set for mnist to the source bucket. You can find the dataset [here](data/) and drag and drop these files to the source bucket.
+13. You will need to upload the training dataset for CIFAR-10 to the source bucket. You can find the dataset [here](data/) and drag and drop these files to the source bucket.
 
 ![cos_upload_data_2](images/step_two/cos_upload_data_2.png)
 
