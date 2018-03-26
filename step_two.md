@@ -42,7 +42,7 @@
 
 ![cos_upload_data_1](images/step_two/cos_upload_data_1.png)
 
-13. You will need to upload the training dataset for CIFAR-10 to the source bucket. You can find the dataset [here](data/) and drag and drop these files to the source bucket.
+13. You will need to upload the training dataset for CIFAR-10 to the source bucket. You can find the dataset [here](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz) and drag and drop these files to the source bucket.
 
 ![cos_upload_data_2](images/step_two/cos_upload_data_2.png)
 
